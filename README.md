@@ -1,4 +1,4 @@
-<h1 style="color: #ff7f50;">House Price Prediction Project</h1>
+<h1 style="color: #ff7f50;">HOME VALUE VISION</h1>
 
 <p>A machine learning project for predicting house prices using advanced regression techniques.</p>
 
